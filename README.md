@@ -12,4 +12,4 @@ HTML CSS HTML5 ve CSS5 kullanılmıştır.
 
 <h4> Ekran Görüntüsü </h4>
 
-![](udemig education.gif)
+![](udemig-education.gif)
