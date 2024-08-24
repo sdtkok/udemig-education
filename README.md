@@ -12,4 +12,8 @@ HTML CSS HTML5 ve CSS5 kullanılmıştır.
 
 <h4> Ekran Görüntüsü </h4>
 
+<<<<<<< HEAD
 ![](udemig-education.gif)
+=======
+![](udemig-education.gif)
+>>>>>>> 94f7d0d79a08725da6ff3db134e29236fb535e0a
