@@ -1,6 +1,6 @@
 <h1> Udemig Education </h1>
 
-Piyasadaki en iyi alamak için doğru adrestesiniz.
+Piyasadaki en iyi kursu alamak için doğru adrestesiniz.
 
 <h2> Profesyonel Ekip </h2>
 
